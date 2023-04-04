@@ -1,5 +1,7 @@
 ```Visual Basic
 
+'01日から31日までの特定のセルを削除する
+
 Sub daydelete()
  
  Dim i As Long
