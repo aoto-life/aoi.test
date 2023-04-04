@@ -1,4 +1,4 @@
-```vb
+```Visual Basic
 
 Sub daydelete()
  
